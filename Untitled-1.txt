@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="css/style.css" rel="stylesheet">
+    <title>Top 5 Laptops</title>
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="#laptop1">Jump to #1</a></li>
+            <li><a href="#laptop2">Jump to #2</a></li>
+            <li><a href="#laptop3">Jump to #3</a></li>
+            <li><a href="#laptop4">Jump to #4</a></li>
+            <li><a href="#laptop5">Jump to #5</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <div>
+            <h1>Top 5 Laptops in 2025</h1>
+            <ol>
+                <li>
+                    <figure id="laptop1">
+                        <img src="images/macbook.jpg" alt="Apple MacBook Pro 2025" width="75%">
+                        <figcaption>Apple MacBook Pro (2025)</figcaption>
+                    </figure>
+                </li>
+                <li>
+                    <figure id="laptop2">
+                        <img src="images/dellxps.jpg" alt="Dell XPS 15 2025" width="75%">
+                        <figcaption>Dell XPS 15 (2025)</figcaption>
+                    </figure>
+                </li>
+                <li>
+                    <figure id="laptop3">
+                        <img src="images/hp-spectre.jpg" alt="HP Spectre x360 2025" width="75%">
+                        <figcaption>HP Spectre x360 (2025)</figcaption>
+                    </figure>
+                </li>
+                <li>
+                    <figure id="laptop4">
+                        <img src="images/lenovo-thinkpad.jpg" alt="Lenovo ThinkPad X1 Carbon 2025" width="75%">
+                        <figcaption>Lenovo ThinkPad X1 Carbon (2025)</figcaption>
+                    </figure>
+                </li>
+                <li>
+                    <figure id="laptop5">
+                        <img src="images/asus-rog.jpg" alt="ASUS ROG Zephyrus 2025" width="75%">
+                        <figcaption>ASUS ROG Zephyrus (2025)</figcaption>
+                    </figure>
+                </li>
+            </ol>
+        </div>
+    </main>
+</body>
+</html>
